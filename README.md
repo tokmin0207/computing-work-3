@@ -9,3 +9,8 @@ ok this is a bulletted list
 * hmmm
 * hmmmm
 * hmmmmm
+
+this is a numbered list
+1. hi
+2. hii
+3. hiii
