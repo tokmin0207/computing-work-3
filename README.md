@@ -14,7 +14,3 @@ Also these are my favourite projects!!
 2. [My group scrapbook](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 3. [Science Fair](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 4. [Sauce on side](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-
-and this
-[![How did you see this?](http://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](http://www.youtube.com/watch?v=dQw4w9WgXcQ)
